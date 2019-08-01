@@ -1,2 +1,2 @@
-# folium_flask
+# folium
 folium map with html
